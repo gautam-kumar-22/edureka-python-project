@@ -1,0 +1,72 @@
+[
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTc0MDAzMTU4N15BMl5BanBnXkFtZTcwNzA0NzcwNA@@._V1._CR19,0,271,400_SX40_SY59.jpg", 
+    "Best Work": " Sideways", 
+    "Profession": "Actor", 
+    "name": "Paul Giamatti", 
+    "Twitter Sentiment": "POSITIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTI5MzE2OF5BMl5BanBnXkFtZTgwODYyNjM4MTE@._V1._CR13,0,868,1280_SX40_SY59.jpg", 
+    "Best Work": " The Patriot", 
+    "Profession": "Actor", 
+    "name": "Jason Isaacs", 
+    "Twitter Sentiment": "NEUTRAL"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMDYxNTgyNV5BMl5BanBnXkFtZTcwMzYxNTcxOA@@._V1._CR0,0,1365,2013_SX40_SY59.jpg", 
+    "Best Work": " An Education", 
+    "Profession": "Actress", 
+    "name": "Ellie Kendrick", 
+    "Twitter Sentiment": "POSITIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MTk1ODc0NV5BMl5BanBnXkFtZTgwMjY1NTU4MjE@._V1._CR0,0,1000,1475_SX40_SY59.jpg", 
+    "Best Work": " Connection Lost", 
+    "Profession": "Actress", 
+    "name": "Aubrey Anderson-Emmons", 
+    "Twitter Sentiment": "POSITIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTMwMzgzMV5BMl5BanBnXkFtZTYwODg2MDM0._V1._CR0,0,267,394_SX40_SY59.jpg", 
+    "Best Work": " Freddy vs. Jason", 
+    "Profession": "Actor", 
+    "name": "Robert Englund", 
+    "Twitter Sentiment": "POSITIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MzE1ODAyNF5BMl5BanBnXkFtZTcwNTEyNTY5Mg@@._V1._CR0,0,1109,1636_SX40_SY59.jpg", 
+    "Best Work": " Lisa", 
+    "Profession": "Actress", 
+    "name": "Staci Keanan", 
+    "Twitter Sentiment": "POSITIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NTc0NTY0MF5BMl5BanBnXkFtZTcwODU2NTcyMQ@@._V1._CR13,0,273,403_SX40_SY59.jpg", 
+    "Best Work": " The Land Before Time", 
+    "Profession": "Actress", 
+    "name": "Judith Barsi", 
+    "Twitter Sentiment": "NEGATIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MzMzMDU2MF5BMl5BanBnXkFtZTcwMzI5MDk2MQ@@._V1._CR33,0,415,612_SX40_SY59.jpg", 
+    "Best Work": " The Librarian: Quest for the Spear", 
+    "Profession": "Actress", 
+    "name": "Sonya Walger", 
+    "Twitter Sentiment": "NEUTRAL"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyMTMwMTM4OF5BMl5BanBnXkFtZTgwNzcxNTMxNDE@._V1._CR0,0,234,345_SX40_SY59.jpg", 
+    "Best Work": " Inside Llewyn Davis", 
+    "Profession": "Actor", 
+    "name": "Max Casella", 
+    "Twitter Sentiment": "POSITIVE"
+  }, 
+  {
+    "Photo": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MjkwNTU4M15BMl5BanBnXkFtZTgwNzk1MzU0MzE@._V1._CR0,0,1361,2007_SX40_SY59.jpg", 
+    "Best Work": " A Few Good Men", 
+    "Profession": "Writer", 
+    "name": "Aaron Sorkin", 
+    "Twitter Sentiment": "NEUTRAL"
+  }
+]
